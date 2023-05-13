@@ -1,1 +1,4 @@
 this is a sample file to learn git.
+
+this line change will be stashed.
+

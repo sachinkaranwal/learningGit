@@ -1,0 +1,3 @@
+git init -> initializes an empty git repositery in the current directory
+
+git hfahdjh -> this is a no command and I'll edit it in the next commit

@@ -1,0 +1,15 @@
+Git and Github
+
+Git 
+	*) its a version control system 
+	*) allows us to maintain(and track) history of our codebase(repositery) 
+
+Github 
+	*) online platform that helps us to share our repositery in remote and also to 
+		use git on that repositery.
+	
+
+ git vs github 
+    -> git is a tech and github is a tool that helps in using git.
+		there are other tools like github which helps us to us git 
+				e.g.    gitlab , bitbucket 
